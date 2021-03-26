@@ -1,2 +1,2 @@
-# tic-tac-toe
-Tic Tac Toe game using C++
+# Tic Tac Toe
+Tic Tac Toe game implemented using C++
